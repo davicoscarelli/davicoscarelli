@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *VueJS, AdonisJS, PostgreSQL*
 
-- 📫 How to reach me *davi@minerva.kgi.edu*
+- 📫 How to reach me *davi@uni.minerva.edu*
 
 
 
