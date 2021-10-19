@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Coscarelli</h1>
 <h3 align="center">A passionate fullstack developer from Brazil studying Computer Science and Artificial Intelligence at Minerva!</h3>
 
-- 🔭 I’m currently working at [Minerva University](https://www.minerva.edu/)
+- 🔭 I’m currently working and studying at [Minerva University](https://www.minerva.edu/)
 
 - 🌱 I’m currently learning *VueJS, AdonisJS, PostgreSQL*
 
